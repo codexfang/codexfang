@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Jason Fang — Applied Mathematics and Computer Science at UC Berkeley. Building intelligent systems at the intersection of software, AI, and the physical world.">
+  <title>Jason Fang — Applied Mathematics &amp; Computer Science, UC Berkeley</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#070B13"/>
+      <stop offset="0.55" stop-color="#0A101C"/>
+      <stop offset="1" stop-color="#05080E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3F7BFF" stop-opacity="0.28"/>
+      <stop offset="0.6" stop-color="#3F7BFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#3F7BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5FD8FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#5FD8FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#172137" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8CFF"/>
+      <stop offset="0.5" stop-color="#5B8CFF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22304A"/>
+      <stop offset="0.55" stop-color="#1A2436"/>
+      <stop offset="1" stop-color="#101724"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8CFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8FC4FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5FD8FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#BFDCFF" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="shineBand">
+      <rect x="-260" y="120" width="200" height="90">
+        <animate attributeName="x" values="-260;700" dur="7s" begin="1.4s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="line1">
+      <rect x="92" y="206" width="600" height="34">
+        <animate attributeName="width" values="0;600" dur="1.3s" begin="0.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="line2">
+      <rect x="92" y="236" width="460" height="34">
+        <animate attributeName="width" values="0;460" dur="1.1s" begin="1.7s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="card"><rect width="1200" height="400" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#grid)" opacity="0.5"/>
+    <ellipse cx="1000" cy="40" rx="480" ry="340" fill="url(#glowA)"/>
+    <ellipse cx="120" cy="390" rx="420" ry="240" fill="url(#glowB)" opacity="0.7"/>
+
+    <!-- command-center motif -->
+    <g transform="translate(958 178)">
+      <circle r="150" fill="none" stroke="#141D2E"/>
+      <circle r="118" fill="none" stroke="#5B8CFF" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="2 9" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="140s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="88" fill="none" stroke="#233049"/>
+      <circle r="88" fill="none" stroke="#5B8CFF" stroke-opacity="0.4" stroke-width="1.2" stroke-dasharray="52 240" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="58" fill="none" stroke="#2A3A57"/>
+      <g stroke="#151F31">
+        <line x1="0" y1="-58" x2="0" y2="-118"/>
+        <line x1="0" y1="58" x2="0" y2="118"/>
+        <line x1="-58" y1="0" x2="-118" y2="0"/>
+        <line x1="58" y1="0" x2="118" y2="0"/>
+        <line x1="-41" y1="-41" x2="-83" y2="-83"/>
+        <line x1="41" y1="41" x2="83" y2="83"/>
+      </g>
+      <g stroke="#2E3F60" stroke-linecap="round">
+        <line x1="0" y1="-158" x2="0" y2="-168"/>
+        <line x1="0" y1="158" x2="0" y2="168"/>
+        <line x1="-168" y1="0" x2="-158" y2="0"/>
+        <line x1="158" y1="0" x2="168" y2="0"/>
+      </g>
+
+      <rect x="-24" y="-24" width="48" height="48" rx="6" fill="#0B1220" stroke="#3D5C96" transform="rotate(45)"/>
+      <rect x="-11" y="-11" width="22" height="22" rx="3" fill="none" stroke="#5B8CFF" stroke-opacity="0.7" transform="rotate(45)"/>
+      <circle r="3.4" fill="#6FE3FF">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3.4" fill="none" stroke="#6FE3FF">
+        <animate attributeName="r" values="3.4;24" dur="4.2s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.5;0" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="-59" cy="-102" r="3" fill="#5B8CFF"/>
+      <circle cx="-59" cy="-102" r="3" fill="none" stroke="#5B8CFF">
+        <animate attributeName="r" values="3;15" dur="5.4s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.55;0" dur="5.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="111" cy="41" r="3" fill="#6FE3FF"/>
+      <circle cx="111" cy="41" r="3" fill="none" stroke="#6FE3FF">
+        <animate attributeName="r" values="3;15" dur="5.4s" begin="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.55;0" dur="5.4s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-41" cy="111" r="3" fill="#8FA8FF"/>
+      <circle cx="-41" cy="111" r="3" fill="none" stroke="#8FA8FF">
+        <animate attributeName="r" values="3;15" dur="5.4s" begin="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.55;0" dur="5.4s" begin="3.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- identity -->
+    <circle cx="76" cy="88.5" r="2.6" fill="#6FE3FF">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="92" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">APPLIED MATHEMATICS &amp; COMPUTER SCIENCE · UC BERKELEY</text>
+
+    <text x="70" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="500" letter-spacing="-2" fill="#F2F6FF">Jason Fang</text>
+    <text x="70" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="500" letter-spacing="-2" fill="url(#shine)" clip-path="url(#shineBand)" opacity="0.55">Jason Fang</text>
+
+    <text x="92" y="232" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#A8B6CE" clip-path="url(#line1)">Building intelligent systems at the intersection of</text>
+    <text x="92" y="262" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#A8B6CE" clip-path="url(#line2)">software, AI, and the physical world.</text>
+    <rect x="72" y="216" width="9" height="20" fill="#6FE3FF">
+      <animate attributeName="opacity" values="0;1;1;0;1;1" keyTimes="0;0.08;0.5;0.58;0.66;1" dur="2.4s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="72" y="309" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.9" fill="#7C8AA6">INCOMING AMAZON SDE · SUMMER 2027 &#160;&#160;&#183;&#160;&#160; REGENTS' AND CHANCELLOR'S SCHOLAR</text>
+
+    <!-- rail -->
+    <line x1="72" y1="346" x2="1128" y2="346" stroke="url(#rail)"/>
+    <rect x="72" y="345.2" width="190" height="1.6" fill="url(#sweep)">
+      <animate attributeName="x" values="-190;1128" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <text x="72" y="374" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C">BERKELEY, CALIFORNIA</text>
+    <text x="1128" y="374" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">FANGUX.COM</text>
+
+    <g stroke="#293A58" stroke-width="1.2" stroke-linecap="square" fill="none">
+      <path d="M26 48V26h22"/>
+      <path d="M1174 352v22h-22"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="23.5" fill="none" stroke="#1E2A42"/>
+</svg>
