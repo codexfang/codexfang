@@ -142,7 +142,7 @@
     <circle cx="80" cy="76.5" r="2.6" fill="#6FE3FF">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="88" y="80" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">APPLIED MATHEMATICS &amp; COMPUTER SCIENCE @ UC BERKELEY</text>
+    <text x="88" y="80" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.7" fill="#6E7E9C">APPLIED MATHEMATICS &amp; COMPUTER SCIENCE @ UC BERKELEY</text>
 
     <text x="70" y="154" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="500" letter-spacing="-2" fill="#F2F6FF">Jason Fang</text>
     <text x="70" y="154" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="500" letter-spacing="-2" fill="url(#shine)" clip-path="url(#shineBand)" opacity="0.55">Jason Fang</text>
@@ -153,32 +153,32 @@
     <rect x="78" y="183" width="6" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="98" y="196" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8FB4E8" clip-path="url(#row1)">I’m constantly finding new ways to challenge how I think and approach problems.</text>
-    <text x="98" y="196" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#DCEBFF" opacity="0" clip-path="url(#row1)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m constantly finding new ways to challenge how I think and approach problems.</text>
+    <text x="98" y="196" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#8FB4E8" clip-path="url(#row1)">I’m constantly finding new ways to challenge how I think and approach problems.</text>
+    <text x="98" y="196" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#DCEBFF" opacity="0" clip-path="url(#row1)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m constantly finding new ways to challenge how I think and approach problems.</text>
 
     <rect x="78" y="215" width="6" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="98" y="228" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8FB4E8" clip-path="url(#row2)">I love turning ambitious ideas into things that actually work.</text>
-    <text x="98" y="228" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#DCEBFF" opacity="0" clip-path="url(#row2)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I love turning ambitious ideas into things that actually work.</text>
+    <text x="98" y="228" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#8FB4E8" clip-path="url(#row2)">I love turning ambitious ideas into things that actually work.</text>
+    <text x="98" y="228" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#DCEBFF" opacity="0" clip-path="url(#row2)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I love turning ambitious ideas into things that actually work.</text>
 
     <rect x="78" y="247" width="6" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="98" y="260" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8FB4E8" clip-path="url(#row3)">I’m an outdoors enthusiast who has climbed Mission Peak over 5 times.</text>
-    <text x="98" y="260" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#DCEBFF" opacity="0" clip-path="url(#row3)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m an outdoors enthusiast who has climbed Mission Peak over 5 times.</text>
+    <text x="98" y="260" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#8FB4E8" clip-path="url(#row3)">I’m an outdoors enthusiast who has climbed Mission Peak over 5 times.</text>
+    <text x="98" y="260" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#DCEBFF" opacity="0" clip-path="url(#row3)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m an outdoors enthusiast who has climbed Mission Peak over 5 times.</text>
 
     <rect x="78" y="279" width="6" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="98" y="292" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8FB4E8" clip-path="url(#row4)">I’m always curious about what’s happening beyond my own field.</text>
-    <text x="98" y="292" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#DCEBFF" opacity="0" clip-path="url(#row4)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m always curious about what’s happening beyond my own field.</text>
+    <text x="98" y="292" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#8FB4E8" clip-path="url(#row4)">I’m always curious about what’s happening beyond my own field.</text>
+    <text x="98" y="292" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#DCEBFF" opacity="0" clip-path="url(#row4)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I’m always curious about what’s happening beyond my own field.</text>
 
     <rect x="78" y="311" width="6" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="98" y="324" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8FB4E8" clip-path="url(#row5)">I thrive in collaborative environments where we build meaningful things together.</text>
-    <text x="98" y="324" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#DCEBFF" opacity="0" clip-path="url(#row5)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I thrive in collaborative environments where we build meaningful things together.</text>
+    <text x="98" y="324" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#8FB4E8" clip-path="url(#row5)">I thrive in collaborative environments where we build meaningful things together.</text>
+    <text x="98" y="324" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" fill="#DCEBFF" opacity="0" clip-path="url(#row5)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.35;1" dur="1.7s" begin="0.5s" fill="freeze"/>I thrive in collaborative environments where we build meaningful things together.</text>
 
     <!-- stack section -->
     <rect x="70" y="403" width="1060" height="1" fill="url(#sectionRule)"/>
@@ -190,8 +190,8 @@
     <circle cx="80" cy="434.5" r="2.6" fill="#6FE3FF">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="88" y="438" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">CORE STACK</text>
-    <text x="1128" y="438" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#3A4A67" text-anchor="end">06 DOMAINS · 24 TOOLS</text>
+    <text x="88" y="438" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.7" fill="#6E7E9C">CORE STACK</text>
+    <text x="1128" y="438" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#3A4A67" text-anchor="end">06 DOMAINS · 24 TOOLS</text>
 
     <rect x="300" y="456" width="1" height="260" fill="url(#listRule)"/>
 
@@ -199,99 +199,99 @@
     <rect x="70" y="473.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="484" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">LANGUAGES</text>
-    <rect x="320" y="466" width="81" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="485" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Python</text>
-    <rect x="411" y="466" width="105.9" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="428" y="485" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">TypeScript</text>
-    <rect x="526.9" y="466" width="103.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="543.9" y="485" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">JavaScript</text>
-    <rect x="640.7" y="466" width="62.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="657.7" y="485" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">SQL</text>
-    <text x="1128" y="484" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
+    <text x="84" y="484" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">LANGUAGES</text>
+    <rect x="320" y="465" width="81.9" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="485.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Python</text>
+    <rect x="411.9" y="465" width="108.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="427.9" y="485.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">TypeScript</text>
+    <rect x="530.1" y="465" width="105.9" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="546.1" y="485.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">JavaScript</text>
+    <rect x="646.0" y="465" width="61.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="662.0" y="485.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">SQL</text>
+    <text x="1128" y="484" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
 
     <!-- FRONTEND -->
     <rect x="70" y="517.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="528" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">FRONTEND</text>
-    <rect x="320" y="510" width="72.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="529" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">React</text>
-    <rect x="402.1" y="510" width="74.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="419.1" y="529" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">HTML</text>
-    <rect x="486.2" y="510" width="62.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="503.2" y="529" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">CSS</text>
-    <text x="1128" y="528" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">03</text>
+    <text x="84" y="528" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">FRONTEND</text>
+    <rect x="320" y="509" width="72.4" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="529.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">React</text>
+    <rect x="402.4" y="509" width="74.6" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="418.4" y="529.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">HTML</text>
+    <rect x="487.0" y="509" width="62.0" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="503.0" y="529.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">CSS</text>
+    <text x="1128" y="528" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">03</text>
 
     <!-- BACKEND -->
     <rect x="70" y="561.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="572" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">BACKEND</text>
-    <rect x="320" y="554" width="84.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="573" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">FastAPI</text>
-    <rect x="414.1" y="554" width="101.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="431.1" y="573" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Express.js</text>
-    <rect x="525.4" y="554" width="113.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="542.4" y="573" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">PostgreSQL</text>
-    <rect x="648.8" y="554" width="82.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="665.8" y="573" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">MySQL</text>
-    <rect x="741.1" y="554" width="99.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="758.1" y="573" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Supabase</text>
-    <text x="1128" y="572" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">05</text>
+    <text x="84" y="572" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">BACKEND</text>
+    <rect x="320" y="553" width="85.1" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="573.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">FastAPI</text>
+    <rect x="415.1" y="553" width="103.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="431.1" y="573.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Express.js</text>
+    <rect x="528.3" y="553" width="116.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="544.3" y="573.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">PostgreSQL</text>
+    <rect x="654.5" y="553" width="83.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="670.5" y="573.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">MySQL</text>
+    <rect x="747.7" y="553" width="101.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="763.7" y="573.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Supabase</text>
+    <text x="1128" y="572" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">05</text>
 
     <!-- AI / ML -->
     <rect x="70" y="605.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="616" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">AI / ML</text>
-    <rect x="320" y="598" width="87.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="617" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">PyTorch</text>
-    <rect x="417.4" y="598" width="89.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="434.4" y="617" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">OpenCV</text>
-    <rect x="517.2" y="598" width="144.6" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="534.2" y="617" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Computer Vision</text>
-    <rect x="671.8" y="598" width="130.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="688.8" y="617" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Deep Learning</text>
-    <text x="1128" y="616" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
+    <text x="84" y="616" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">AI / ML</text>
+    <rect x="320" y="597" width="88.6" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="617.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">PyTorch</text>
+    <rect x="418.6" y="597" width="91.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="434.6" y="617.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">OpenCV</text>
+    <rect x="519.8" y="597" width="149.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="535.8" y="617.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Computer Vision</text>
+    <rect x="679.0" y="597" width="134.5" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="695.0" y="617.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Deep Learning</text>
+    <text x="1128" y="616" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
 
     <!-- HARDWARE / EDGE -->
     <rect x="70" y="649.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="660" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">HARDWARE / EDGE</text>
-    <rect x="320" y="642" width="130" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="661" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">NVIDIA Jetson</text>
-    <rect x="460" y="642" width="118.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="477" y="661" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Raspberry Pi</text>
-    <rect x="588.8" y="642" width="120.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="605.8" y="661" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Google Coral</text>
-    <rect x="719.5" y="642" width="92.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="736.5" y="661" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Robotics</text>
-    <text x="1128" y="660" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
+    <text x="84" y="660" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">HARDWARE / EDGE</text>
+    <rect x="320" y="641" width="133.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="661.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">NVIDIA Jetson</text>
+    <rect x="463.8" y="641" width="121.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="479.8" y="661.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Raspberry Pi</text>
+    <rect x="595.6" y="641" width="123.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="611.6" y="661.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Google Coral</text>
+    <rect x="729.4" y="641" width="93.8" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="745.4" y="661.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Robotics</text>
+    <text x="1128" y="660" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
 
     <!-- CLOUD / TOOLS -->
     <rect x="70" y="693.5" width="5" height="13" rx="1" fill="#6FE3FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="84" y="704" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">CLOUD / TOOLS</text>
-    <rect x="320" y="686" width="65.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="337" y="705" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">AWS</text>
-    <rect x="395.7" y="686" width="81.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="412.7" y="705" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Docker</text>
-    <rect x="487.1" y="686" width="53.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="504.1" y="705" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Git</text>
-    <rect x="550.2" y="686" width="80.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
-    <text x="567.2" y="705" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">GitHub</text>
-    <text x="1128" y="704" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
+    <text x="84" y="704" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="2.4" fill="#6E7E9C">CLOUD / TOOLS</text>
+    <rect x="320" y="685" width="65.7" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="336" y="705.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">AWS</text>
+    <rect x="395.7" y="685" width="82.3" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="411.7" y="705.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Docker</text>
+    <rect x="488.0" y="685" width="52.2" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="504.0" y="705.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">Git</text>
+    <rect x="550.2" y="685" width="81.5" height="30" rx="8" fill="#0D1626" stroke="#22304A"/>
+    <text x="566.2" y="705.5" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#BFDCFF">GitHub</text>
+    <text x="1128" y="704" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">04</text>
 
     <!-- rail -->
     <rect x="72" y="737.5" width="1056" height="1" fill="url(#rail)"/>
     <rect x="72" y="737.2" width="190" height="1.6" fill="url(#sweep)">
       <animate attributeName="x" values="-190;1128" dur="13s" repeatCount="indefinite"/>
     </rect>
-    <text x="72" y="764" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C">BERKELEY, CALIFORNIA</text>
-    <text x="1128" y="764" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">FANGUX.COM</text>
+    <text x="72" y="764" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#48546C">BERKELEY, CALIFORNIA</text>
+    <text x="1128" y="764" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">FANGUX.COM</text>
 
     <g stroke="#293A58" stroke-width="1.2" stroke-linecap="square" fill="none">
       <path d="M26 48V26h22"/>
