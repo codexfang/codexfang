@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Jason Fang — Applied Mathematics and Computer Science at UC Berkeley. Software engineer working in AI, computer vision, and robotics. Software that has to work beyond the prototype.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Jason Fang — Applied Mathematics and Computer Science at UC Berkeley. Software engineer working in AI, computer vision, and robotics.">
   <title>Jason Fang — Applied Mathematics &amp; Computer Science, UC Berkeley</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0.85" y2="1">
@@ -18,11 +18,6 @@
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M48 0H0V48" fill="none" stroke="#172137" stroke-width="1"/>
     </pattern>
-    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5B8CFF"/>
-      <stop offset="0.5" stop-color="#5B8CFF" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/>
-    </linearGradient>
     <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22304A"/>
       <stop offset="0.55" stop-color="#1A2436"/>
@@ -39,14 +34,35 @@
       <stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="listRule" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#24344F" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#24344F"/>
+      <stop offset="0.8" stop-color="#24344F"/>
+      <stop offset="1" stop-color="#24344F" stop-opacity="0"/>
+    </linearGradient>
     <clipPath id="shineBand">
-      <rect x="-260" y="120" width="200" height="90">
+      <rect x="-260" y="96" width="200" height="90">
         <animate attributeName="x" values="-260;700" dur="7s" begin="1.4s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
-    <clipPath id="tagline">
-      <rect x="92" y="220" width="560" height="34">
-        <animate attributeName="width" values="0;560" dur="1.5s" begin="0.5s" fill="freeze"/>
+    <clipPath id="row1">
+      <rect x="98" y="182" width="640" height="28">
+        <animate attributeName="width" values="0;640" dur="0.55s" begin="0.45s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row2">
+      <rect x="98" y="209" width="640" height="28">
+        <animate attributeName="width" values="0;640" dur="0.55s" begin="0.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row3">
+      <rect x="98" y="236" width="640" height="28">
+        <animate attributeName="width" values="0;640" dur="0.55s" begin="1.15s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="row4">
+      <rect x="98" y="263" width="640" height="28">
+        <animate attributeName="width" values="0;640" dur="0.55s" begin="1.5s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="card"><rect width="1200" height="400" rx="24"/></clipPath>
@@ -59,7 +75,7 @@
     <ellipse cx="120" cy="390" rx="420" ry="240" fill="url(#glowB)" opacity="0.7"/>
 
     <!-- command-center motif -->
-    <g transform="translate(958 178)">
+    <g transform="translate(958 190)">
       <circle r="150" fill="none" stroke="#141D2E"/>
       <circle r="118" fill="none" stroke="#5B8CFF" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="2 9" stroke-linecap="round">
         <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="140s" repeatCount="indefinite"/>
@@ -112,32 +128,55 @@
     </g>
 
     <!-- identity -->
-    <circle cx="76" cy="88.5" r="2.6" fill="#6FE3FF">
+    <circle cx="76" cy="76.5" r="2.6" fill="#6FE3FF">
       <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="88" y="92" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">APPLIED MATHEMATICS &amp; COMPUTER SCIENCE · UC BERKELEY</text>
+    <text x="88" y="80" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">APPLIED MATHEMATICS &amp; COMPUTER SCIENCE · UC BERKELEY</text>
 
-    <text x="70" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="500" letter-spacing="-2" fill="#F2F6FF">Jason Fang</text>
-    <text x="70" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="500" letter-spacing="-2" fill="url(#shine)" clip-path="url(#shineBand)" opacity="0.55">Jason Fang</text>
+    <text x="70" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="500" letter-spacing="-2" fill="#F2F6FF">Jason Fang</text>
+    <text x="70" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="62" font-weight="500" letter-spacing="-2" fill="url(#shine)" clip-path="url(#shineBand)" opacity="0.55">Jason Fang</text>
 
-    <text x="92" y="246" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#A8B6CE" clip-path="url(#tagline)">Software that has to work beyond the prototype.</text>
-    <rect x="72" y="230" width="9" height="20" fill="#6FE3FF">
-      <animate attributeName="opacity" values="0;1;1;0;1;1" keyTimes="0;0.08;0.5;0.58;0.66;1" dur="2.4s" begin="3s" repeatCount="indefinite"/>
+    <!-- facts, revealed one at a time -->
+    <line x1="70.5" y1="186" x2="70.5" y2="292" stroke="url(#listRule)"/>
+
+    <rect x="78" y="186" width="6" height="14" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.28;1" dur="2.8s" repeatCount="indefinite"/>
     </rect>
+    <text x="98" y="200" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8FB4E8" clip-path="url(#row1)">I take complex ideas and turn them into systems that work.</text>
+    <text x="98" y="200" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#DCEBFF" opacity="0" clip-path="url(#row1)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.3;1" dur="0.65s" begin="0.45s" fill="freeze"/>I take complex ideas and turn them into systems that work.</text>
 
-    <text x="72" y="309" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.9" fill="#7C8AA6">SOFTWARE ENGINEER &#160;&#160;&#183;&#160;&#160; AI, COMPUTER VISION &amp; ROBOTICS</text>
+    <rect x="78" y="213" width="6" height="14" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.28;1" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="98" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8FB4E8" clip-path="url(#row2)">AI, computer vision, and robotics on edge hardware.</text>
+    <text x="98" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#DCEBFF" opacity="0" clip-path="url(#row2)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.3;1" dur="0.65s" begin="0.8s" fill="freeze"/>AI, computer vision, and robotics on edge hardware.</text>
+
+    <rect x="78" y="240" width="6" height="14" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.28;1" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="98" y="254" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8FB4E8" clip-path="url(#row3)">I like the seam where software meets the physical world.</text>
+    <text x="98" y="254" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#DCEBFF" opacity="0" clip-path="url(#row3)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.3;1" dur="0.65s" begin="1.15s" fill="freeze"/>I like the seam where software meets the physical world.</text>
+
+    <rect x="78" y="267" width="6" height="14" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.28;1" dur="2.8s" begin="2.1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="98" y="281" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8FB4E8" clip-path="url(#row4)">Always building. Always learning.</text>
+    <text x="98" y="281" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#DCEBFF" opacity="0" clip-path="url(#row4)"><animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.3;1" dur="0.65s" begin="1.5s" fill="freeze"/>Always building. Always learning.</text>
+
+    <!-- tools -->
+    <text x="72" y="316" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" fill="#5E6D88"><tspan fill="#9BAECA">SOFTWARE ENGINEER</tspan> | PYTHON | TYPESCRIPT | JAVASCRIPT | PYTORCH | OPENCV | JETSON | DOCKER</text>
 
     <!-- rail -->
-    <line x1="72" y1="346" x2="1128" y2="346" stroke="url(#rail)"/>
-    <rect x="72" y="345.2" width="190" height="1.6" fill="url(#sweep)">
+    <line x1="72" y1="348" x2="1128" y2="348" stroke="url(#rail)"/>
+    <rect x="72" y="347.2" width="190" height="1.6" fill="url(#sweep)">
       <animate attributeName="x" values="-190;1128" dur="13s" repeatCount="indefinite"/>
     </rect>
-    <text x="72" y="374" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C">BERKELEY, CALIFORNIA</text>
-    <text x="1128" y="374" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">FANGUX.COM</text>
+    <text x="72" y="375" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C">BERKELEY, CALIFORNIA</text>
+    <text x="1128" y="375" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">FANGUX.COM</text>
 
     <g stroke="#293A58" stroke-width="1.2" stroke-linecap="square" fill="none">
       <path d="M26 48V26h22"/>
-      <path d="M1174 352v22h-22"/>
+      <path d="M1174 354v22h-22"/>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="399" rx="23.5" fill="none" stroke="#1E2A42"/>
