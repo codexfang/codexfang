@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Core stack: languages Python, TypeScript, JavaScript and SQL; frontend React, HTML and CSS; backend FastAPI, Express.js, PostgreSQL, MySQL and Supabase; AI and machine learning PyTorch, OpenCV, computer vision and deep learning; hardware and edge NVIDIA Jetson, Raspberry Pi, Google Coral and robotics; cloud and tools AWS, Docker, Git and GitHub.">
+  <title>Core stack — languages, frontend, backend, AI/ML, hardware and edge, cloud and tools</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#070B13"/>
+      <stop offset="0.55" stop-color="#0A101C"/>
+      <stop offset="1" stop-color="#05080E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3F7BFF" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#3F7BFF" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#3F7BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5FD8FF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#5FD8FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#172137" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22304A"/>
+      <stop offset="0.55" stop-color="#1A2436"/>
+      <stop offset="1" stop-color="#101724"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8CFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8FC4FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#5FD8FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="columnRule" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#24344F" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#24344F"/>
+      <stop offset="0.82" stop-color="#24344F"/>
+      <stop offset="1" stop-color="#24344F" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="440" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#grid)" opacity="0.45"/>
+    <ellipse cx="1040" cy="40" rx="470" ry="330" fill="url(#glowA)"/>
+    <ellipse cx="110" cy="440" rx="430" ry="250" fill="url(#glowB)" opacity="0.6"/>
+
+    <!-- label -->
+    <circle cx="80" cy="76.5" r="2.6" fill="#6FE3FF">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="80" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.7" fill="#6E7E9C">CORE STACK</text>
+
+    <line x1="300.5" y1="114" x2="300.5" y2="366" stroke="url(#columnRule)"/>
+
+    <!-- LANGUAGES -->
+    <rect x="70" y="131.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="142" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">LANGUAGES</text>
+    <rect x="320" y="124" width="81" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="143" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Python</text>
+    <rect x="411" y="124" width="105.9" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="428" y="143" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">TypeScript</text>
+    <rect x="526.9" y="124" width="103.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="543.9" y="143" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">JavaScript</text>
+    <rect x="640.7" y="124" width="62.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="657.7" y="143" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">SQL</text>
+
+    <!-- FRONTEND -->
+    <rect x="70" y="173.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="184" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">FRONTEND</text>
+    <rect x="320" y="166" width="72.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="185" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">React</text>
+    <rect x="402.1" y="166" width="74.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="419.1" y="185" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">HTML</text>
+    <rect x="486.2" y="166" width="62.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="503.2" y="185" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">CSS</text>
+
+    <!-- BACKEND -->
+    <rect x="70" y="215.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="226" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">BACKEND</text>
+    <rect x="320" y="208" width="84.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">FastAPI</text>
+    <rect x="414.1" y="208" width="101.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="431.1" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Express.js</text>
+    <rect x="525.4" y="208" width="113.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="542.4" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">PostgreSQL</text>
+    <rect x="648.8" y="208" width="82.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="665.8" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">MySQL</text>
+    <rect x="741.1" y="208" width="99.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="758.1" y="227" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Supabase</text>
+
+    <!-- AI / ML -->
+    <rect x="70" y="257.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="268" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">AI / ML</text>
+    <rect x="320" y="250" width="87.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="269" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">PyTorch</text>
+    <rect x="417.4" y="250" width="89.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="434.4" y="269" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">OpenCV</text>
+    <rect x="517.2" y="250" width="144.6" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="534.2" y="269" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Computer Vision</text>
+    <rect x="671.8" y="250" width="130.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="688.8" y="269" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Deep Learning</text>
+
+    <!-- HARDWARE / EDGE -->
+    <rect x="70" y="299.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="310" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">HARDWARE / EDGE</text>
+    <rect x="320" y="292" width="130" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="311" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">NVIDIA Jetson</text>
+    <rect x="460" y="292" width="118.8" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="477" y="311" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Raspberry Pi</text>
+    <rect x="588.8" y="292" width="120.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="605.8" y="311" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Google Coral</text>
+    <rect x="719.5" y="292" width="92.3" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="736.5" y="311" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Robotics</text>
+
+    <!-- CLOUD / TOOLS -->
+    <rect x="70" y="341.5" width="5" height="13" rx="1" fill="#6FE3FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="84" y="352" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="2.4" fill="#6E7E9C">CLOUD / TOOLS</text>
+    <rect x="320" y="334" width="65.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="337" y="353" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">AWS</text>
+    <rect x="395.7" y="334" width="81.4" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="412.7" y="353" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Docker</text>
+    <rect x="487.1" y="334" width="53.1" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="504.1" y="353" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">Git</text>
+    <rect x="550.2" y="334" width="80.7" height="28" rx="7" fill="#0D1626" stroke="#22304A"/>
+    <text x="567.2" y="353" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#BFDCFF">GitHub</text>
+
+    <!-- per-row counts -->
+    <g font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#2A3A57" text-anchor="end">
+      <text x="1128" y="142">04</text>
+      <text x="1128" y="184">03</text>
+      <text x="1128" y="226">05</text>
+      <text x="1128" y="268">04</text>
+      <text x="1128" y="310">04</text>
+      <text x="1128" y="352">04</text>
+    </g>
+
+    <!-- rail -->
+    <line x1="72" y1="388" x2="1128" y2="388" stroke="url(#rail)"/>
+    <rect x="72" y="387.2" width="190" height="1.6" fill="url(#sweep)">
+      <animate attributeName="x" values="-190;1128" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <text x="72" y="414" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C">06 DOMAINS</text>
+    <text x="1128" y="414" font-family="'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.1" fill="#48546C" text-anchor="end">24 TOOLS</text>
+
+    <g stroke="#293A58" stroke-width="1.2" stroke-linecap="square" fill="none">
+      <path d="M26 48V26h22"/>
+      <path d="M1174 392v22h-22"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="23.5" fill="none" stroke="#1E2A42"/>
+</svg>
