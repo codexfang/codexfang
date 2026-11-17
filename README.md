@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="1200" alt="Jason Fang — Applied Mathematics and Computer Science at UC Berkeley. Building intelligent systems at the intersection of software, AI, and the physical world.">
+  <img src="assets/hero.svg" width="1200" alt="Jason Fang — Applied Mathematics and Computer Science at UC Berkeley. Software engineer.">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 Applied Mathematics & Computer Science at **UC Berkeley**. I build systems where software meets the physical world — computer vision on edge hardware, robotics that has to be correct in real time, and the product layers that make the output usable by someone who isn't an engineer.
 
-Incoming Software Development Engineer at **Amazon** (Summer 2027). Regents' and Chancellor's Scholar.
+Regents' and Chancellor's Scholar.
 
 ## Experience
 
